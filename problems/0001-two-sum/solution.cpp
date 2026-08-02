@@ -10,7 +10,7 @@ public:
             if(mp.count(temp)>0){
                 for(int j=0;j<nums.size();j++){
                     if(j!=i && nums[j]==temp){
-                        return {j,i};
+                        return {i,j};
                     }
                 }
             }
