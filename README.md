@@ -11,7 +11,7 @@ Solved: 9 (Easy: 7, Medium: 2, Hard: 0)
 | 141 | [Linked List Cycle](141-linked-list-cycle/) | Easy | 2026-09-12 |
 | 21 | [Merge Two Sorted Lists](21-merge-two-sorted-lists/) | Easy | 2026-09-12 |
 | 283 | [Move Zeroes](283-move-zeroes/) | Easy | 2026-09-12 |
+| 48 | [Rotate Image](48-rotate-image/) | Medium | 2026-09-12 |
 | 1 | [Two Sum](1-two-sum/) | Easy | 2026-09-12 |
 | 125 | [Valid Palindrome](125-valid-palindrome/) | Easy | 2026-09-12 |
-| 48 | [Rotate Image](48-rotate-image/) | Medium | 2026-09-12 |
 <!-- LEETHUB:TABLE:END -->
